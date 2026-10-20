@@ -4,6 +4,9 @@
 **Scope:** DLA runtime 0.7.0 and agent profile 0.2.0  
 **Document type:** Project-authored conceptual paper; not a formal verification report
 
+**Author:** Andreas Bender
+**e-Mail:** a.bender@optimize-it.com
+
 ## Abstract
 
 This paper defines the scope of structural determinism used in the DLA
