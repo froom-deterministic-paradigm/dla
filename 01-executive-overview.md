@@ -5,6 +5,8 @@
 **Publication draft 1.0 | 20 October 2026**  
 **Scope:** DLA runtime 0.7.0 and agent profile 0.2.0  
 **Document type:** Project-authored technical overview; not peer reviewed
+**Author:** Andreas Bender
+**e-Mail:** a.bender@optimize-it.com
 
 ## Abstract
 
