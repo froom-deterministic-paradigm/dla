@@ -4,6 +4,9 @@
 **Scope:** DLA runtime 0.7.0 and agent profile 0.2.0  
 **Document type:** Project-authored evidence summary; not an independent audit
 
+**Author:** Andreas Bender
+**e-Mail:** a.bender@optimize-it.com
+
 ## Abstract
 
 This paper summarizes the evidence available for selected DLA execution
